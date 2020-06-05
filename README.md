@@ -3,7 +3,7 @@ This Respository shares my code to solve the problem of the website ProjectEuler
 
 Of course I'll update this respository irregularly, the upgrate cycle depend on how long I have time to do it haha
 
-利用Python编写代码，解决网站ProjectEuler (https://projecteuler.net/)中的问题。代码部分内容引自网络 (Github或CSDN)，如有侵权请联系我删除
+利用Python编写代码，解决网站ProjectEuler (https://projecteuler.net/) 中的问题。代码部分内容引自网络 (Github或CSDN)，如有侵权请联系我删除
 如果您也对解决网站上的问题感兴趣，欢迎联系我与我探讨，我很乐意与您交流想法
 
 ## Update in 2020.06.05
