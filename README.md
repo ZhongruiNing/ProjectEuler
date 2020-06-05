@@ -3,13 +3,16 @@ This Respository shares my code to solve the problem of the website ProjectEuler
 
 Of course I'll update this respository irregularly, the upgrate cycle depend on how long I have time to do it haha
 
+## Update in 2020.06.05
+Oh I'm sorry to tell you that I've set the respository not editable, but you can still download my codes from the website, and if you use them in commercial activity, please indicate the source.
+
 ## My Name
 Zhongrui Ning
 
 ## Addess
 College of Hydrology and Water Resourses, Hohai University
 
-Xikang 1 road, Gulou District, Nanjing City, Jiangsu Prov., PR.C
+Xikang 1 road, Gulou District, Nanjing City, Jiangsu Prov., **PR.C**
 
 ## Contact Me
 Eamil: hhuning@foxmail.com
